@@ -17,4 +17,4 @@ We need a function that can transform a string into a number. What ways of achie
 
 ---
 
-Tags: `PARSING`, `STRINGS`, `FUNDAMENTALS`
+Tags: `Parsing`, `Strings`, `Fundamentals`
